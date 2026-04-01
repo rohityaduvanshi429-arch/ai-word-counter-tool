@@ -11,14 +11,17 @@
 2. Run:
    python main.py
 
+   
 ## Example
+
 Input:
 Hello world
 
 Output:
 Words: 2  
 Characters: 11  
+Sentences: 0  
+Average word length: 5.0
 
 ## Description
-This tool analyzes text and provides useful statistics using Python.# ai-word-counter-tool
-Python-based AI Word Counter Tool that analyzes text by counting words, characters, sentences, and average word length.
+This is a Python-based AI text analysis tool that calculates word count, character count, sentence detection, and average word length.
